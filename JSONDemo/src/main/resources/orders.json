@@ -1,0 +1,29 @@
+{
+  "fname" : "manoj",
+  "lname" : "reddy",
+  "email" : "manojreddybala@gmail.com",
+  "mobNumber" : 9666054958,
+  "address" : [ "SR Nagar", "ameerpet", "Guntur" ],
+  "orders" : {
+    "list_Order" : [ {
+      "oid" : 1234,
+      "name" : "moblie",
+      "desc" : "good",
+      "status" : "delivered"
+    }, {
+      "oid" : 1879,
+      "name" : "moblie",
+      "desc" : "good",
+      "status" : "not delivered"
+    }, {
+      "oid" : 4576,
+      "name" : "camera",
+      "desc" : "good",
+      "status" : "delivered"
+    } ]
+  },
+  "acc" : {
+    "number" : 12457864,
+    "balance" : 10000.0
+  }
+}
